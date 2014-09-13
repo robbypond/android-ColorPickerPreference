@@ -898,7 +898,7 @@ public class ColorPickerView extends View {
 			mValShader = null;
 			mSatShader = null;
 			mHueShader = null;
-			mAlphaShader = null;;
+			mAlphaShader = null;
 
 			requestLayout();
 		}
